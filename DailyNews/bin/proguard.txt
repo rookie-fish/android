@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:19
+-keep class com.pan.dailynews.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:13
+-keep class com.pan.dailynews.app.MyApplication { <init>(...); }
+
